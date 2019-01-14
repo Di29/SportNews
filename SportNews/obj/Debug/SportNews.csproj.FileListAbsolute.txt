@@ -11,3 +11,16 @@ C:\Users\adm\source\repos\SportNews\SportNews\obj\Debug\SportNews.csproj.CoreCom
 C:\Users\adm\source\repos\SportNews\SportNews\obj\Debug\SportNews.csproj.CopyComplete
 C:\Users\adm\source\repos\SportNews\SportNews\obj\Debug\SportNews.exe
 C:\Users\adm\source\repos\SportNews\SportNews\obj\Debug\SportNews.pdb
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\bin\Debug\SportNews.exe.config
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\bin\Debug\SportNews.exe
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\bin\Debug\SportNews.pdb
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\bin\Debug\EntityFramework.dll
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\bin\Debug\EntityFramework.xml
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\obj\Debug\SportNews.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\obj\Debug\SportNews.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\obj\Debug\SportNews.csproj.CopyComplete
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\obj\Debug\SportNews.exe
+C:\Users\УринбасаровД\Documents\SportNews\SportNews\obj\Debug\SportNews.pdb

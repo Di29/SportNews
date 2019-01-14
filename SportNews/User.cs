@@ -14,7 +14,9 @@ namespace SportNews
         //}
         public int Id { get; set; }
         public string Login { get; set; }
+        public string Password { get; set; }
         
         public ICollection<Comment> Comments { get; set; }
+        public ICollection<News> NewsList { get; set; }
     }
 }

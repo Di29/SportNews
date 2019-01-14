@@ -17,5 +17,6 @@ namespace SportNews
         public string CommentBody { get; set; }
 
         public ICollection<User> Users { get; set; }
+        public ICollection<News> News { get; set; }
     }
 }
